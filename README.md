@@ -1,5 +1,3 @@
-
-<!--horizontal divider(gradiant)-->
 <h1 align="center">Hi 👋, I'm Arpit Maheshwari</h1>
 
 
@@ -45,7 +43,14 @@
       <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=AgentJ08&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
 </div>
-<!--- trophy (start) -->
+<!--- trophy (end) -->
+<br>
+<!--profile visit count-->
+<div align="center">
+
+[![](https://visitcount.itsvg.in/api?id=AgentJ08&label=Profile%20Views&color=0&icon=3&pretty=true)](https://visitcount.itsvg.in)
+
+</div>
 
 
 </p>        
@@ -81,11 +86,3 @@
 <a href="https://www.instagram.com/agentj.jpegs/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
   
 </p>
-
-
-<!--profile visit count-->
-<div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=AgentJ08&icon=3&color=6)](https://visitcount.itsvg.in)
-  
-</div>
