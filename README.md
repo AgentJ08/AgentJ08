@@ -2,13 +2,13 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **AWS, Reactjs, Nodejs, MongoDB**.
+- 🔭 I’m currently working on **AWS, Reactjs, Nodejs, Nextjs, MongoDB, SQL**.
 
 - 🌱 I’m currently learning **to put together multiple end-to-end Full Stack scalable solutions**.
 
 - ☁️ I have a keen interest in designing scalable products. So, I'm learning **System Design**.
 
-- 💬 Ask me about **AWS, reactjs, nodejs, mongoDB, scalability, LLD, HLD**.
+- 💬 Ask me about **AWS, reactjs, nodejs, nextjs, mongoDB, SQL, scalability, LLD, HLD**.
 
 - 📫 Feel free to reach me out at **arpit.maheshwari08041999@gmail.com**.
 
